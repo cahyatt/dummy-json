@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Engineering",
+    "image": "./images/program-img-cyber.jpg",
+    "link": "#",
+    "degree_type": "bs",
+    "major": true
+  },
+  {
+    "title": "Biblical Studies",
+    "image": "./images/program-img-bible.jpg",
+    "link": "#",
+    "degree_type": "bs",
+    "major": true
+  },
+  {
+    "title": "Counseling",
+    "image": "./images/program-img-counseling.jpg",
+    "link": "#",
+    "degree_type": "bs",
+    "major": true
+  },
+  {
+    "title": "Aviation Missions",
+    "image": "./images/program-img-aviation.jpg",
+    "link": "#",
+    "degree_type": "bs",
+    "major": true
+  }
+]
