@@ -17,14 +17,14 @@
     "title": "Counseling",
     "image": "./images/program-img-counseling.jpg",
     "link": "#",
-    "degree_type": "bs",
+    "degree_type": "ba",
     "major": true
   },
   {
     "title": "Aviation Missions",
     "image": "./images/program-img-aviation.jpg",
     "link": "#",
-    "degree_type": "bs",
+    "degree_type": "co",
     "major": true
   }
 ]
