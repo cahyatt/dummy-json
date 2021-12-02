@@ -3,28 +3,32 @@
     "title": "Engineering",
     "image": "./images/program-img-cyber.jpg",
     "link": "#",
-    "degree_type": "bs",
-    "major": true
+    "degree_type": ["bs"],
+    "major": true,
+    "interest_types": ["compsci"]
   },
   {
     "title": "Biblical Studies",
     "image": "./images/program-img-bible.jpg",
     "link": "#",
     "degree_type": "bs",
-    "major": true
+    "major": true,
+    "interest_types": ["bible"]
   },
   {
     "title": "Counseling",
     "image": "./images/program-img-counseling.jpg",
     "link": "#",
     "degree_type": "ba",
-    "major": true
+    "major": true,
+    "interest_types": ["health"]
   },
   {
     "title": "Aviation Missions",
     "image": "./images/program-img-aviation.jpg",
     "link": "#",
     "degree_type": "co",
-    "major": true
+    "major": true,
+    "interest_types": ["stem"]
   }
 ]
