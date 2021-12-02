@@ -11,7 +11,7 @@
     "title": "Biblical Studies",
     "image": "./images/program-img-bible.jpg",
     "link": "#",
-    "degree_type": "bs",
+    "degree_type": ["bs"],
     "major": true,
     "interest_types": ["bible"]
   },
@@ -19,7 +19,7 @@
     "title": "Counseling",
     "image": "./images/program-img-counseling.jpg",
     "link": "#",
-    "degree_type": "ba",
+    "degree_type": ["ba"],
     "major": true,
     "interest_types": ["health"]
   },
@@ -27,7 +27,7 @@
     "title": "Aviation Missions",
     "image": "./images/program-img-aviation.jpg",
     "link": "#",
-    "degree_type": "co",
+    "degree_type": ["co"],
     "major": true,
     "interest_types": ["stem"]
   }
